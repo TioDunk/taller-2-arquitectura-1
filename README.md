@@ -1,5 +1,8 @@
 # 🧩 Prueba de Concepto (PoC) — Domain-Driven Design con Microservicios
 
+# 🎦 Video demostrativo:
+https://www.loom.com/share/2747252d333749b6a070251745fa8dd2
+
 Este proyecto demuestra cómo aplicar **Domain-Driven Design (DDD)** en una arquitectura basada en **microservicios** utilizando **FastAPI** (Python).
 La PoC está compuesta por **dos microservicios** independientes que simulan un flujo de negocio típico: **pedidos (Sales)** y **pagos (Billing)**.
 
